@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1602896540 source:c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\parcial 161020\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
