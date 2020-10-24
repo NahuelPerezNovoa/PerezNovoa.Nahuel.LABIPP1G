@@ -1,8 +1,119 @@
 # depslib dependency file v1.0
-1602896540 source:c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\parcial 161020\main.c
+1603500658 source:c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\parcial 161020\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	<conio.h>
 	<ctype.h>
+	"tipos.h"
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"trabajos.h"
+	"menu.h"
+	"informes.h"
+
+1603332720 c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\parcial 161020\tipos.h
+
+1603335389 c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\parcial 161020\colores.h
+
+1603494961 c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\parcial 161020\bicicletas.h
+
+1603408096 c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\parcial 161020\servicios.h
+
+1603408698 c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\parcial 161020\trabajos.h
+
+1603495500 c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\parcial 161020\menu.h
+
+1603494949 source:c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\parcial 161020\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"tipos.h"
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"trabajos.h"
+	"menu.h"
+
+1603330439 source:c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\parcial 161020\colores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"tipos.h"
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"trabajos.h"
+	"menu.h"
+
+1603501200 source:c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\parcial 161020\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"tipos.h"
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"trabajos.h"
+	"menu.h"
+
+1603330457 source:c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\parcial 161020\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"tipos.h"
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"trabajos.h"
+	"menu.h"
+
+1603330485 source:c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\parcial 161020\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"tipos.h"
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"trabajos.h"
+	"menu.h"
+
+1603330494 source:c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\parcial 161020\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"tipos.h"
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"trabajos.h"
+	"menu.h"
+
+1603501495 source:c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\parcial 161020\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	"tipos.h"
+	"colores.h"
+	"bicicletas.h"
+	"servicios.h"
+	"trabajos.h"
+	"menu.h"
+
+1603500658 c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\parcial 161020\informes.h
 
